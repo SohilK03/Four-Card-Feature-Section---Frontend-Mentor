@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+    font-family: 'Popins' ,sans-serif;
+    margin: 50px 100px 50px 100px;
+}
+.container{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.card{
+    width: 40rem;
+   padding: 10px;
+   background-color: white;
+   border-radius: 7px;
+   border-top: 8px solid hsl(180, 62%, 55%);
+   box-shadow: 5px 5px 8px hsl(234, 12%, 34%);
+   margin-bottom: 40px;
+   text-align: left;
+   height: 30rem;
+  
+}
+.card-title{
+    font-weight: 600;
+    font-size: 3rem;
+    padding-left: 30px;
+}
+.card-text{
+    font-weight: 200;
+    font-size: 2rem;
+    
+}
+
+.card img {
+    margin-top: 30px;
+    margin-left: 280px;
+}
+.super{
+    margin-top: 140px;
+}
+.tbuild{
+    border-top: 8px solid hsl(0, 78%, 62%);
+}
+.karma{
+    border-top: 8px solid hsl(34, 97%, 64%);
+}
+.calc{
+    border-top: 8px solid hsl(212, 86%, 64%);
+    margin-top: 140px;
+}
+.top-h{
+    font-size: 5rem;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+.top-heading{
+    font-size: 4.5rem;
+    font-family: 'Popins',sans-serif;
+    font-weight: 200;
+    color: hsl(234, 12%, 34%);
+}
+p{
+    font-style: 'Regular';
+    font-weight: 400;
+    margin: 30px;
+    font-size: 2rem;
+    
+}
